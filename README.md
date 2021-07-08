@@ -1,5 +1,5 @@
 # Social Networking Application
-**This project has been developed using Mongodb,Express,React and NodeJs.**
+This project has been developed using Mongodb,Express,React and NodeJs.
 
 ## How to run the application?
 * Run npm install to install the required dependencies
